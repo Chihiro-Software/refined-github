@@ -1,5 +1,5 @@
 {
-	"private": true,
+	"name": "refined-github",
 	"scripts": {
 		"lint": "run-p --silent lint:*",
 		"lint:js": "xo",
